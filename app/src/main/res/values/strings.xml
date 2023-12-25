@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IFC</string>
+    <string name="login">Login</string>
+    <string name="juristask">JurisTask</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_sign_up">Sign Up</string>
+    <string name="about_description"> Sistema de Gerenciamento de Tarefas Jurídico</string>
+    <string name="creator_text">Desenvolvido por Juliana Hukuda</string>
+</resources>
